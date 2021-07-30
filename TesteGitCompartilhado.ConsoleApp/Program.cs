@@ -7,6 +7,7 @@ namespace TesteGitCompartilhado.ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Lucas Da Silva Costa");
         }
     }
 }
